@@ -2,10 +2,8 @@
 layout: base.liquid
 ---
 
-### Hello 👋🏽
-I'm Jay and this is my blog where I write things. When I'm not writing about neural networks, you can find me [jamming on guitar](https://www.youtube.com/channel/UCwJzU57tHnbgaI0eECNKqjw), [writing lots of code](https://github.com/jaymody), [answering questions on stackoverflow](https://stackoverflow.com/users/11070463/jay-mody), or training LLMs at [co:here](https://cohere.com).
-
-I love meeting new people, so don't don't hesitate to reach out! `jaykmody [at] gmail [dot] com`.
+### Clark Saben (sometimes arelius)
+I am Clark Saben and I am a university student at the University of Mary Washington studying Mathematics and Physics. 
 
 ### Posts
 
