@@ -1,5 +1,5 @@
 # My Website
-My personal website/blog, built from scratch with [eleventy](https://www.11ty.dev).
+My personal website/blog (using [Jay Mody](https://github.com/jaymody/website) framework as a base), built from scratch with [eleventy](https://www.11ty.dev).
 
 ### Installation
 ```bash
