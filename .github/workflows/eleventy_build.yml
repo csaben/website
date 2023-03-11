@@ -20,13 +20,11 @@ jobs:
         - run: npm ci
         
         - name: Build
-        - run: npx @11ty/eleventy --input=src --output=_site
+        - run: npx @11ty/eleventy --serve --input src --output output
 
         - name: Deploy to Github Pages
           uses: peaceiris/actions-gh-pages@v3
           with:
             deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-            publish_dir: ./_site
-            publish_branch: master
-            force_orphan: true
+            publish_dir: ./dist
             
