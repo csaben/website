@@ -14,7 +14,7 @@ jobs:
 
 
         - name: Setup Node
-          uses: actions/setup-node@v1
+          uses: actions/setup-node@v16
           with:
             node-version: '10.x'
 
