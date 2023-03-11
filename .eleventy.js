@@ -1,4 +1,6 @@
 module.exports = function (eleventyConfig) {
+  //lea37 adjustments
+  
   // custom markdown parser
   let md = require("markdown-it")({
     html: true, // allows use of html in markdown ()
@@ -28,4 +30,12 @@ module.exports = function (eleventyConfig) {
   if (process.env.ELEVENTY_ENV === "prd") {
     eleventyConfig.ignores.add("**/*-example-post-*.md");
   }
+  
+  return {
+      dir: {
+          input: "src",
+          output: "dist",
+      },
+      templateFormats : ["njk", "md", "html"]
+  };    
 }
