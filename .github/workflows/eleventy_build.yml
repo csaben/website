@@ -20,8 +20,7 @@ jobs:
           run: npm ci
         
         - name: Build
-          run: npx @11ty/eleventy --serve --input src --output output
-
+          run: npm run build
         - name: Deploy to Github Pages
           uses: peaceiris/actions-gh-pages@v3
           with:
