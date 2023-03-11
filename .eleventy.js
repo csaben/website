@@ -28,10 +28,4 @@ module.exports = function (eleventyConfig) {
   if (process.env.ELEVENTY_ENV === "prd") {
     eleventyConfig.ignores.add("**/*-example-post-*.md");
   }
-   
-  // use index.md as the index file
-  eleventyConfig.addPassthroughCopy("index.md");
-  eleventyConfig.addPassthroughCopy("*.jpg");
-  eleventyConfig.addPassthroughCopy("*.png");
-  eleventyConfig.addPassthroughCopy("*.css");
 }
