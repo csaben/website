@@ -3,6 +3,9 @@ My personal website/blog (using [Jay Mody](https://github.com/jaymody/website) f
 
 Jay also gave me the green light to use his framework as a base (super rad guy, thanks Jay!)
 
+Updates:
+* github actions folder setup for github pages hosting
+
 ### Installation
 ```bash
 npm install
