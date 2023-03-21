@@ -25,7 +25,6 @@ As I can consider reading and diving deeper into the literature as my current [m
 In this post, I'm going to read through a [`first pass`](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 of the aforementioned paper. This is in an effort to get as many [`hours`](https://www.youtube.com/watch?v=cdiD-9MMpb0) in as possible prior to diving into my independent summer research. 
 
-<<<<<<< HEAD
 ### abstract
 *Purpose:* 
 What additional info is needed beyond connectivity diagrams to understand circuit function, informed by invertebrate circuits whose connectivity is known (in this case the C. elegans' nervous system is used as the anatomical connectome was established over 25 years ago i.e. 1980 [14])
@@ -64,41 +63,6 @@ Additional connections are created by the widespread electrical synapses, mediat
 * [Geometrical and Statistical Properties of Systems of Linear Inequalities with Applications in Pattern Recognition](https://drive.google.com/file/d/1adQffIG-KziNR5JoiTB8QV7xNXzdKd_T/view?usp=share_link)
 * [Sparse Coding with an Overcomplete Basis Set: A Strategy Employed by V1?](https://drive.google.com/file/d/1qFIHzCDTyFi6WiZCgGliVb10LMOix_Ep/view?usp=share_link)
 * [Structural Properties of the Caenorhabditis elegans Neuronal Network](https://drive.google.com/file/d/1ETIxlWeSBeCc08WlUrZc8lISLPUWYsfC/view?usp=share_link)
-=======
-DRAFT:
-* go through each major header, summarize key things that are worth mentioning, link any studies if it adds value
-<!-- insert image of functional vs anatomical maps (how? lol)-->
-Recency: Published 2013
-
-Sub headers
-* Abstract
-* what do functional and anatomical maps reveal?
-* parallel and antagonistic pathways complicate circuits
-* Neuromodulation reconfigures circuit properties
-* Neuronal dynamics shape the activity of circuits
-* Vertebrate retina also has complex circuit properties
-* Circuits interact to generate behavior
-* How can we ‘solve’ the brain?
-    is this identifiable now (a decade later)?
-	" 
-	Big science works best
-	when the goals of a project are well-defined and when the out-
-	comes can be easily recognized. Both were true about the human
-	genome project, but neither is true, yet, about large-scale attempts
-	to understand the brain.
-	"
-
-Summary of what complicates understanding neuron information flow and circuit-level dynamics:
-* synaptic plasticity can occur on rapid timescales to strengthen and weaken synapses based on use, adding complexity to circuit-level dynamics
-
-test:
-
-![cbb088515b8f35cae64989b0ae7241da.jpg](:/5b9344861c1b4d39a7cb91db1212df39)
-
-
-Citation:
-Bargmann, C., Marder, E. From the connectome to brain function. Nat Methods 10, 483–490 (2013). https://doi.org/10.1038/nmeth.2451
->>>>>>> ed3b47224ca0ae8308ee22fa40a0892b2dd2050b
 
 ## Citations
 * Bargmann, C., Marder, E. From the connectome to brain function. Nat Methods 10, 483–490 (2013). https://doi.org/10.1038/nmeth.2451
