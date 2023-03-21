@@ -6,7 +6,7 @@ description: "Annotating structure function papers"
 ---
 This isn't much of a blog post but rather a starting point for myself to reference (on the fly, from anywhere) papers that I'm actively reading or have marked to read next. I hope others that find this post will be able to more quickly narrow down there search for a specific topic by using some of the annotations I've done.
 
-As I can consider reading and diving deeper into the literature as my current [march 2023] priority, that will be reflected in this style of notes. I.e. I will be making an attempt to tabulate referenced papers. In papers that require mathematics (appences, toy problems, etc), I will switch, but for papers that are mostly word dense I will omit much as the best source is the primary linked one. I will also try to code out aspects of papers if it is ever meaningful and makes sense to do so.
+As I consider reading and diving deeper into the literature as my current [march 2023] priority, that will be reflected in this style of notes. I.e. I will be making an attempt to tabulate referenced papers. In papers that require mathematics (appendices, toy problems, etc), I will switch, but for papers that are mostly word dense I will omit much as the best source is the primary linked one. I will also try to code out aspects of papers if it is ever meaningful and makes sense to do so.
 
 **Note:**
 * this is a living post that will be updated with future annotations
@@ -22,8 +22,7 @@ As I can consider reading and diving deeper into the literature as my current [m
 <!-- here you would have a progress bar of hours spent on this post and how much you have spent so -->
 <!-- far on it. time: 1:10:00 hr:min:sec -->
 
-In this post, I'm going to read through a [`first pass`](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-of the aforementioned paper. This is in an effort to get as many [`hours`](https://www.youtube.com/watch?v=cdiD-9MMpb0) in as possible prior to diving into my independent summer research. 
+[`first pass`](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) of the aforementioned paper. This is in an effort to get as many [`hours`](https://www.youtube.com/watch?v=cdiD-9MMpb0) in as possible prior to diving into my independent summer research. 
 
 ### abstract
 *Purpose:* 
@@ -49,7 +48,7 @@ Reader notes:
 * if you are skimming this I highly recommend taking a look at figures (1a) and (1b) to get a better idea of the difference between a connectivity diagram (1a) and a connectome (1b)
 * connectome is organized in a signal flow view which reflects dominant information flow, from sensory neurons (top) -> interneurons (middle) -> motor neurons (bottom)
 
-Additional connections are created by the widespread electrical synapses, mediated by direct cytoplasmic communication through gap junctions, through which current flows depending on the voltages of the coupled neurons. In the STG circuit, there are many instances of neurons that are connected by electrical synapses as well as by chemical inhibitory synapses[^complicated]
+[^complicated]: Additional connections are created by the widespread electrical synapses, mediated by direct cytoplasmic communication through gap junctions, through which current flows depending on the voltages of the coupled neurons. In the STG circuit, there are many instances of neurons that are connected by electrical synapses as well as by chemical inhibitory synapses
 
 
 
