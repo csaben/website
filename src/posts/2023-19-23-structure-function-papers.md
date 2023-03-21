@@ -47,6 +47,10 @@ Sub headers
 Summary of what complicates understanding neuron information flow and circuit-level dynamics:
 * synaptic plasticity can occur on rapid timescales to strengthen and weaken synapses based on use, adding complexity to circuit-level dynamics
 
+test:
+
+![cbb088515b8f35cae64989b0ae7241da.jpg](:/5b9344861c1b4d39a7cb91db1212df39)
+
 
 Citation:
 Bargmann, C., Marder, E. From the connectome to brain function. Nat Methods 10, 483–490 (2013). https://doi.org/10.1038/nmeth.2451
