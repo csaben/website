@@ -3,41 +3,7 @@
   {% include "head.liquid" %}
   <body>
     <header>{% include "nav.liquid" %}</header>
-    <main>
-      <div class="toc">
-        <h2>Table of Contents</h2>
-        <ol id="toc"></ol>
-      </div>
-      {{ content }}
-    </main>
-    <footer>{% include "footer.liquid" %}</footer>
-    <script>
-      document.addEventListener('DOMContentLoaded', () => {
-        const toc = document.getElementById('toc');
-        const headers = Array.from(document.querySelectorAll('main h2'));
-        headers.forEach(header => {
-          const listItem = document.createElement('li');
-          const link = document.createElement('a');
-          link.href = `#${header.id}`;
-          link.textContent = header.textContent;
-          listItem.appendChild(link);
-          toc.appendChild(listItem);
-        });
-      });
-    </script>
-  </body>
-</html>
-
-
-
-{% comment %}
-<!DOCTYPE html>
-<html lang="en">
-  {% include "head.liquid" %}
-  <body>
-    <header>{% include "nav.liquid" %}</header>
     <main>{{ content }}</main>
     <footer>{% include "footer.liquid" %}</footer>
   </body>
 </html>
-{% endcomment %}
