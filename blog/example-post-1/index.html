@@ -84,40 +84,16 @@
   <a href=https://twitter.com/i/lists/1571135399690485760><i class="fa-brands fa-twitch" aria-hidden="true"></i></a>
 </nav>
 </header>
-    <main>
-      <div class="toc">
-        <h2>Table of Contents</h2>
-        <ol id="toc"></ol>
-      </div>
-      <h1>This is my first post</h1>
+    <main><h1>This is my first post</h1>
 <p style="opacity: 0.5;">March 10, 2023</p>
 <hr>
 
 <p>Dross is a cool guy. He can be cryptic at times, but thats kind of his charm.</p>
 <p>This is a test post.</p>
 
-
-    </main>
+</main>
     <footer><hr>
 <p><small>© 2023 Clark Saben</small></p>
 </footer>
-    <script>
-      document.addEventListener('DOMContentLoaded', () => {
-        const toc = document.getElementById('toc');
-        const headers = Array.from(document.querySelectorAll('main h2'));
-        headers.forEach(header => {
-          const listItem = document.createElement('li');
-          const link = document.createElement('a');
-          link.href = `#${header.id}`;
-          link.textContent = header.textContent;
-          listItem.appendChild(link);
-          toc.appendChild(listItem);
-        });
-      });
-    </script>
   </body>
 </html>
-
-
-
-
