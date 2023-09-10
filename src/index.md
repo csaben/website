@@ -2,7 +2,7 @@
 layout: base.liquid
 ---
 
-### Clark Saben <span style="font-size: 0.8em;">(pseudonym 'arelius' iyk cradle yk)</span>
+### Clark Saben <span style="font-size: 0.6em;">(pseudonym 'arelius' iyk Cradle yk)</span>
 Hi, I'm Clark Saben and this space is for some of my thoughts and projects to live.
 
 I am currently a student at the University of Mary Washington (4th year) studying Mathematics and Physics. 
