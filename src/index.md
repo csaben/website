@@ -7,7 +7,7 @@ Hi, I'm Clark Saben and this space is for some of my thoughts and projects to li
 
 I am currently a student at the University of Mary Washington (4th year) studying Mathematics and Physics. 
 
-Links: [<a href="/static/assets/resume.pdf" target="_blank">Resume</a>] [[Twitter](https://twitter.com/ClarkSaben)]
+Links: [<a href="https://csaben.github.io/static/assets/resume.pdf" target="_blank">Resume</a>] [[Twitter](https://twitter.com/ClarkSaben)]
 
 
 ### Posts
