@@ -2,7 +2,7 @@
 layout: base.liquid
 ---
 
-### Clark Saben (pseudonym on some sites is 'arelius')
+### Clark Saben (pseudonym 'arelius' iyk cradle yk)
 Hi, I'm Clark Saben and this space is for some of my thoughts and projects to live.
 
 I am currently a student at the University of Mary Washington (4th year) studying Mathematics and Physics. 
