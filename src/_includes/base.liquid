@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include "head.liquid" %}
-  <body class="dark-mode">
+  <body>
     <header>{% include "nav.liquid" %}</header>
     <main>{{ content }}</main>
     <footer>{% include "footer.liquid" %}</footer>
+    <script>
+      document.body.classList.add('dark-mode');
+    </script>
   </body>
 </html>
+
