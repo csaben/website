@@ -1,5 +1,7 @@
 :root {
-    --b-txt: #fff;
+    --b-txt: #fff; #a060ab
+    --b-link: #a060ab;
+
 }
 header {
     padding-top: 5vh;
