@@ -2,14 +2,18 @@
     --hr: #cfcfcf;
 
     /* Bamboo CSS Dark Mode Overrides */
-    --b-txt: #d8dee9;
-    --b-bg-1: #2e3440;
-    --b-bg-2: #3b4252;
-    --b-line: #4c566a;
-    --b-link: #88c0d0;
-    --b-btn-bg: #5e81ac;
-    --b-btn-txt: #eceff4;
+    --b-font-main: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --b-font-mono: Consolas, Monaco, monospace;
+
+    --b-txt: #2e3440;
+    --b-bg-1: #fff;
+    --b-bg-2: #eceff4;
+    --b-line: #eceff4;
+    --b-link: #bf616a;
+    --b-btn-bg: #242933;
+    --b-btn-txt: #fff;
 }
+
 
 header {
     padding-top: 5vh;
