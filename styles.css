@@ -1,15 +1,6 @@
 :root {
-    --hr: #cfcfcf;
 
     /* Bamboo CSS Dark Mode Overrides */
-    --b-font-main: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-    --b-font-mono: Consolas, Monaco, monospace;
-
-    --b-txt: #2e3440;
-    --b-line: #eceff4;
-    --b-link: #bf616a;
-    --b-btn-bg: #242933;
-    --b-btn-txt: #fff;
 }
 
 header {
