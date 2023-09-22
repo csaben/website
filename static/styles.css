@@ -1,4 +1,6 @@
-
+:root {
+    --b-txt: #fff;
+}
 header {
     padding-top: 5vh;
     margin-bottom: 5vh;
