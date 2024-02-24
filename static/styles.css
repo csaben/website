@@ -1,19 +1,8 @@
 :root {
-    --hr: #cfcfcf;
+    --b-txt: #fff;
+    --b-link: #ffb74a;
 
-    /* bamboo css values */
-	--b-font-main: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-	--b-font-mono: Consolas, Monaco, monospace;
-	--b-txt: #2e3440;
-	--b-bg-1: #fff;
-	--b-bg-2: #eceff4;
-	--b-line: #eceff4;
-	--b-link: #0073ff;
-	--b-btn-bg: #242933;
-	--b-btn-txt: #fff;
-	--b-focus: #d8dee9;
 }
-
 header {
     padding-top: 5vh;
     margin-bottom: 5vh;
@@ -54,6 +43,7 @@ hr {
 
 nav {
     font-size: 1.2rem;
+    color: white;
 }
 
 .footnotes {
