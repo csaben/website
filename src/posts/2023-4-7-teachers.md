@@ -1,8 +1,7 @@
 ---
-title: "Teacher Recognition"
+title: Teacher Recognition
 date: 2023-04-07
-description: "I am the composite of my own effort and the teaching of others. I list those who have had an impact on how I solve problems and live life. Thank you."
-
+description: I am the composite of my own effort and the teaching of others. I list those who have had an impact on how I solve problems and live life. Thank you.
 ---
 **To my teachers:**
 Thank you for your patience with me and encouraging me.
