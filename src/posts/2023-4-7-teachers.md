@@ -26,4 +26,4 @@ Take advantage of the wealth of knowledge these individuals share, ask lot's of 
 ***
 This isn't a ranking but instead a tribute to people that encouraged my interests and taught me a lot.
 
-(this list is not exhaustive, at the time of writing this is who came to mind.).
+(this list is not exhaustive, at the time of writing this is who came to mind.)
